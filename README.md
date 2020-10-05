@@ -3,7 +3,7 @@
 
 # Acknowledgement
  This resume was written using Vic Demuzere's guide on Creating a C.V. with
- LaTeX and moderncv. The original guide can be found at the URL
+ LaTeX and moderncv. The original guide can be found at the URL below.
  https://vic.demuzere.be/articles/curriculum-vitae-cv-with-latex-moderncv/
  
 # Purpose
